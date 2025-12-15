@@ -1,4 +1,4 @@
-def suming(a,b):
-    sum=a+b
-    
-suming(15,2)
+def add(a, b):
+    return a + b
+
+print(add(2, 3))
