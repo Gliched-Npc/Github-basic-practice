@@ -1,4 +1,4 @@
-def suming(a,b):
-    sum=a+b
-    
-suming(5,6)
+def add(a, b):
+    return a + b
+
+print("Sum is:", add(2, 3))
